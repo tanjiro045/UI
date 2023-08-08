@@ -1,0 +1,29 @@
+I. Introduction to UI Lifecycle:
+“User Interface Development” is the development of websites, web applications,
+mobile
+applications and software development. “User Interface” plays a key role in the
+software.
+development life cycle [SDLC].
+User interface development process can be categorized into 4 phases as below:
+1.Research and Analysis
+In traditional Research &amp; Analysis phase, two categories of information are
+gathered and
+analyzed by the user experience team:
+● Information about the users of the application.
+● Information about the application itself this establishes the context for User
+Interface
+design and this context informs the entire design process.
+2. Design and Branding
+During the design and branding phase, User Interface design is created that
+addresses the
+specific needs identified in the research &amp; analysis phase and creates, revise
+or leverage the
+application brand.
+During the design phase UI developers can work closely with the UX team to
+define the
+User interface (Wireframes, Visual design).
+A User Experience team may think out of the box while creating wireframes and
+visual design, but may not be aware of challenges, possibilities and limitations.
+Involving UI developers in this phase may ease the process, as UI developers
+understand the technologies and possibilities.
+
